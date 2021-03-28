@@ -22,6 +22,6 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/). I found 
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-hc-facet.png)
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-safety-facet-num.png)
 
-* 
+* continue
 
 #<img src="https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-2020.png" width="750" height="600">
