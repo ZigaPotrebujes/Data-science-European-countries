@@ -52,9 +52,11 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/). I found 
 Let's now check my objectives I had at the beginning. 
 
 1. [✓] create a short analysis, containing few charts, which will help me with copy pasting in the future
+
 By uploading this short analysis I have primarily given myself a "copy-paste" go-to document, so this gets a check. 
 
 2. [✓] extract at least 1 piece of useful information (to me) in the process
+
 I have learned something new, mainly:
 - making map plots
 - labeling only certain items on the chart
