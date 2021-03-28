@@ -18,3 +18,6 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/) and half 
 
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-facet.png)
 
+* since there was **no** visual difference I decided to check a different indicator (purchasing power)
+
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20PP-facet-numbeo.png)
