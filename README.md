@@ -22,6 +22,10 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/). I found 
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-hc-facet.png)
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-safety-facet-num.png)
 
-* continue
+* the latter triggered an alarm in my head. Sweden was far too gray for my opinion and I wanted to double check that
+* first thing I did was present the data in a different way so that the actual safety score is a bit clearer
+
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-safety-barpl-numbeo.png)
+
 
 #<img src="https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-2020.png" width="750" height="600">
