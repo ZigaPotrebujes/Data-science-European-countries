@@ -2,7 +2,6 @@
 
 Let me start by explaining what the _real_ purpose of this analysis is. At my previous employment, I learned that one of the things you use most (as a data scientist at least) is Copy-Paste. There are a finite number of plots and infinite number of problems. Things are bound to repeat themselves, but that is a good thing! I learned that people (especially coworkers from other fields) quickly tend to lose interest if there is too many new things going on. A new color or some other feautre here and there is fine, but don't overdo it. That's why some degree of repetitiveness in this line of work is a must and I wanted to create a project where I would have different plots and their code, so I can always easily find it. Therefore, since the actual content is more of a secondary nature in this post, you may find it more interesting from a technical point of view. In this document I will stick more to my thought process, while the code itself will be stored in the workspace file. 
 
-In short:
 **Objectives**
 - create a short analysis, containing few charts, which will help with copy pasting me in the future
 - extract at least 1 piece of useful information (to me) in the process
@@ -59,3 +58,4 @@ Let's now check my objectives I had at the beginning.
 - labeling only certain items on the chart
 - resourcefulness in scraping data
 - be wary, when using Numbeo as a source of information. Some, more common may be accurate, but some (especially those that are hard to quantify) can be completely out of whack
+[✓] extract at least 1 piece of useful information (to me) in the process
