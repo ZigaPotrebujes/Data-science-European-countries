@@ -11,4 +11,5 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/) and half 
 * extracted dataframes from the source for different years
 * compared between the years if I would see a visual difference popping out
 
-![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/pics/DS1%20-%20CLI-facet.png)
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-facet.png)
+
