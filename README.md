@@ -35,4 +35,17 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/). I found 
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-eurostat-stackedbarchart.png)
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-eurostat-scatterplot.png)
 
-#<img src="https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-2020.png" width="750" height="600">
+* although the data is only for EU it is clear, that Numbeo's safety score is quite unreliable. 
+* I wanted however to find another source, containing countries outside of EU as well. I found one such table on [Global Finance magazine](https://www.gfmag.com/global-data/non-economic-data/worlds-safest-countries-2019). To be fair I have never heard of it, which is not the ideal case. But since the object of observation was in itself of quite subjective nature and because they provided an adequate explanation of the factors they took into account I decided to scrape that data as well
+
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-safety-2019-gfmag.png)
+
+* the data from the last 2 sources tell quite a different story, which led me to believe the healthcare data might not be that accurate either
+* for the healthcare comparison I found a dataframe on [Wikipedia](https://en.wikipedia.org/wiki/Euro_Health_Consumer_Index)
+* in order to compare the healthscores between the two sources (Numbeo and Wikipedia), I thought it'd be easier if I first normalised the data somehow 
+* each country had 2 initial scores - N and W. I divided each score by the mean(respective scores of all countries) to get some idea of how the countries scores' are distributed within each scoring system
+* I put the results in a scatterplot, hoping to see some correlation - as many points as possible on the diagonal (f(x) = x)
+* I was pleasantly surprised to have found the data quite correlated. There were a few outliers however, which I marked on the chart
+
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-hc-sctrplt-normalised-wiki-numbeo.png)
+
