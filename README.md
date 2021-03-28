@@ -11,7 +11,7 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/) and half 
 * extracted data from the source and started to analyse it
 * map plot of CLI on first glance looks OK
 
-![](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-2020.png =250x250)
+![](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-2020.png){:height="50%" width="50%"}
 
 
 * extracted data from the same source for different years
