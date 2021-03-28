@@ -49,3 +49,13 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/). I found 
 
 ![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-hc-sctrplt-normalised-wiki-numbeo.png)
 
+## Results
+Let's now check my objectives I had at the beginning. 
+* by uploading this short analysis I have primarily given myself a "copy-paste" go-to document, so this gets a check. 
+[✓] create a short analysis, containing few charts, which will help me with copy pasting in the future
+
+* I have learned something new, mainly:
+- making map plots
+- labeling only certain items on the chart
+- resourcefulness in scraping data
+- be wary, when using Numbeo as a source of information. Some, more common may be accurate, but some (especially those that are hard to quantify) can be completely out of whack
