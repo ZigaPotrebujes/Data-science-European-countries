@@ -30,7 +30,9 @@ I started searching for a dataset on [Kaggle](https://www.kaggle.com/). I found 
 * my fears were confirmed. I **sincerely** doubt Sweden is more dangerous than Ukraine which had seen war in the recent years and hostilities still haven't really ended
 * it even popped up in the top 10 most dangereous countries _worldwide_
 * Upon checkin reviews I noticed other people had similar problems with Numbeo, especially with the crime scores. Although it is a hard metric to quantify, the current method they use is to survey users, which is far from reliable source of data
-* I also decided to look for other sources. The first one is [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Archive:Quality_of_life_in_Europe_-_facts_and_views_-_economic_and_physical_safety&oldid=400085#Data_sources_and_availability), which is a credible source of information. It already had the data neatly prepared in charts, for our convenience. 
+* I also decided to look for other sources. The first one is [Eurostat](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Archive:Quality_of_life_in_Europe_-_facts_and_views_-_economic_and_physical_safety&oldid=400085#Data_sources_and_availability), which is a credible source of information. It even had the data neatly prepared in charts, for our convenience. 
 
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-eurostat-stackedbarchart.png)
+![alt text](https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1-eurostat-scatterplot.png)
 
 #<img src="https://github.com/ZigaPotrebujes/Data-science-starter-pack/blob/main/plots/DS1%20-%20CLI-2020.png" width="750" height="600">
